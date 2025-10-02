@@ -21,7 +21,7 @@
 
 
 local MULTI_SCOREBOARD = DanLib.Func.CreateModule('SCOREBOARD')
-MULTI_SCOREBOARD:SetTitle(DDI_MSScriptName)
+MULTI_SCOREBOARD:SetTitle('Multi Scoreboard')
 MULTI_SCOREBOARD:SetIcon('CLr2OBI')
 MULTI_SCOREBOARD:SetAuthor(DanLib.Author)
 MULTI_SCOREBOARD:SetVersion('1.0.0')
